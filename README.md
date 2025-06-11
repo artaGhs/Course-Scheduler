@@ -1,5 +1,3 @@
-# Course-Scheduler
-Final Project for CMSC 221 Penn State class
 # Course Scheduler
 
 This project contains a Java Swing application used for managing course schedules. It was developed as part of the CMSC221 course at Penn State.
